@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">t HelloSharedPrefs</string>
+    <string name="default_count">0\n</string>
+    <string name="black_button">Black</string>
+    <string name="red_button">Red</string>
+    <string name="reset_button">Reset</string>
+    <string name="count_button">Count</string>
+    <string name="green_button">Green</string>
+    <string name="blue_button">Blue</string>
+</resources>
